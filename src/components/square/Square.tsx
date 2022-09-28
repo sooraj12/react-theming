@@ -1,5 +1,5 @@
 import React from 'react';
-import './square.scoped.css'
+import './square.scss'
 
 const Square = () => {
   return(
